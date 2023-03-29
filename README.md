@@ -4,12 +4,12 @@
 Radancy Banking System is API for listing accounts, creating accounts, deleting accounts , withdrawing money and depositing money
 
 ## Tech Stack Used
-Dot net 6.0
-Visual Studio 2022
-MSTest for unit test cases
-Bogus library for faking objects
-Fluent Assertions for easy assertions in test cases
-Entity Framework
+1. Dot net 6.0
+2. Visual Studio 2022
+3. MSTest for unit test cases
+4. Bogus library for faking objects
+5. Fluent Assertions for easy assertions in test cases
+6. Entity Framework
 
 ## Key Notes
 1. These apis work as an admin by default. Because if it has to be exposed to end user, we would have to add authentication mechanism which is beyond te scope of this poc
