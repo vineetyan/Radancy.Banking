@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Radancy.BankingSystem.DataAccess\Radancy.BankingSystem.DataAccess.csproj" />
+    <ProjectReference Include="..\Radancy.BankingSystem.Models\Radancy.BankingSystem.Models.csproj" />
+  </ItemGroup>
+
+</Project>

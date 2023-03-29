@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Radancy.BankingSystem", "Radancy.BankingSystem\Radancy.BankingSystem.csproj", "{3B13C46D-44CF-419E-8098-459DFC154D2E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Radancy.BankingSystem.Models", "Radancy.BankingSystem.Models\Radancy.BankingSystem.Models.csproj", "{056533A6-F90E-44EF-A9B9-2AC570442B99}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Radancy.BankingSystem.Services", "Radancy.BankingSystem.Services\Radancy.BankingSystem.Services.csproj", "{B1979963-77B1-4431-8511-18476999FE85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Radancy.BankingSystem.DataAccess", "Radancy.BankingSystem.DataAccess\Radancy.BankingSystem.DataAccess.csproj", "{667750A5-B136-4ADF-9C5C-89413D72D8C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Radancy.BankingSystem.Common", "Radancy.BankingSystem.Common\Radancy.BankingSystem.Common.csproj", "{18039BCF-4FF7-4E13-A17D-CC0509E72D57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Radancy.BankingSystem.Services.Tests", "Radancy.BankingSystem.Services.Tests\Radancy.BankingSystem.Services.Tests.csproj", "{52A657B4-829B-4830-9826-52FD91D367D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B13C46D-44CF-419E-8098-459DFC154D2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B13C46D-44CF-419E-8098-459DFC154D2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B13C46D-44CF-419E-8098-459DFC154D2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B13C46D-44CF-419E-8098-459DFC154D2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{056533A6-F90E-44EF-A9B9-2AC570442B99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{056533A6-F90E-44EF-A9B9-2AC570442B99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{056533A6-F90E-44EF-A9B9-2AC570442B99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{056533A6-F90E-44EF-A9B9-2AC570442B99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1979963-77B1-4431-8511-18476999FE85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1979963-77B1-4431-8511-18476999FE85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1979963-77B1-4431-8511-18476999FE85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1979963-77B1-4431-8511-18476999FE85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{667750A5-B136-4ADF-9C5C-89413D72D8C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{667750A5-B136-4ADF-9C5C-89413D72D8C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{667750A5-B136-4ADF-9C5C-89413D72D8C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{667750A5-B136-4ADF-9C5C-89413D72D8C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18039BCF-4FF7-4E13-A17D-CC0509E72D57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18039BCF-4FF7-4E13-A17D-CC0509E72D57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18039BCF-4FF7-4E13-A17D-CC0509E72D57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18039BCF-4FF7-4E13-A17D-CC0509E72D57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52A657B4-829B-4830-9826-52FD91D367D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52A657B4-829B-4830-9826-52FD91D367D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52A657B4-829B-4830-9826-52FD91D367D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52A657B4-829B-4830-9826-52FD91D367D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1BF4A94-CA4B-4DC3-BFC1-109BBB060D0B}
+	EndGlobalSection
+EndGlobal
