@@ -18,3 +18,4 @@ Entity Framework
 4. Build Solution
 5. Run Radancy.BankingSystem project
 6. It will open swagger UI by default. You ca try any api from swagger UI itself
+![alt text](https://github.com/vineetyan/Radancy.Banking/blob/main/swagger.png)
